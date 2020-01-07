@@ -1,5 +1,4 @@
 package practicalproblem;
 
-public class Problem01_practice {
-
+public class Problem01 {
 }

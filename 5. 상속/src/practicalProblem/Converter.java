@@ -3,7 +3,6 @@ package practicalProblem;
 import java.util.Scanner;
 
 abstract class Converter {
-
     abstract protected double convert(double src);//추상메소드
     abstract protected String getSrcString();//추상메소드
     abstract protected String getDestString();//추상메소드

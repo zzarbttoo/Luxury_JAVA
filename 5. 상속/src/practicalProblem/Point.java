@@ -1,6 +1,6 @@
 package practicalProblem;
 
-public class Point {
+public abstract class Point {
     private int x, y;
 
     public Point(int x, int y) {
@@ -20,4 +20,6 @@ public class Point {
         this.x = x;
         this.y = y;
     }
+
+    protected abstract void move(int x, int y, int z);
 }

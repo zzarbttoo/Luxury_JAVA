@@ -8,7 +8,6 @@ public class Project501ColorTV extends TV {
         super(size);
         this.color = color;
 
-
     }
 
     @Override

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="3. 반복문과 배열 그리고 예외처리/src"/>
+	<classpathentry kind="src" path="4. 클래스와 객체/src"/>
+	<classpathentry kind="src" path="5. 상속/src"/>
+	<classpathentry kind="src" path="6. 모듈과 패키지 개념, 자바 기본 패키지/src"/>
+	<classpathentry kind="src" path="8. 입출력 스트림과 파일 입출력"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
